@@ -15,7 +15,7 @@ node {
     //}
     mavenBuild {
         branch = 'main'
-        repoUrl = 'https://github.com/tkp1999/maven-web-application.git'
+        repoUrl = 'https://github.com/tkp1999/spring-boot-mongo-docker.git'
         jdkVersion = "JDK17" 
         mavenVersion = "Maven3.9"
         dockerRegistry = "tkp1999"
